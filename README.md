@@ -1,0 +1,2 @@
+# Dummies
+Repository for Dummies
